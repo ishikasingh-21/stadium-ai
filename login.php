@@ -57,7 +57,7 @@ if(isset($_POST['login']))
     Don't have an account?
     <a href="Register.php">Register Here</a>
 </p>
-<button type="submit" name="login" class="btn btn-primary w-100">
+<button type="submit" name="login" class="btn btn-primary w-100" href="dashboard.php">
 Login
 </button>
 
