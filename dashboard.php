@@ -38,7 +38,7 @@ if(!isset($_SESSION['user']))
 </div>
 
 <div class="col-md-4 mb-3">
-<a href="navigation.php" class="btn btn-success w-100"> Navigation</a>
+<a href="stadiums.php" class="btn btn-success w-100"> Navigation</a>
 </div>
 
 <div class="col-md-4 mb-3">
